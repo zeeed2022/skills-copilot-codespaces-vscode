@@ -13,4 +13,3 @@ const server = http.createServer((req, res) => {
     res.end();
 });
 // 3. listen to incoming requests
-server.listen(3000);
